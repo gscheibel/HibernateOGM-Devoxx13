@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+<rootpath>/</rootpath>
+<rest>
+<applicationclass>
+<package>net.gscheibel.hintofnosql.backend.rest</package>
+<name>RestApplication</name>
+</applicationclass>
+</rest>
+<forge>
+<analytics>
+<enabled>false</enabled>
+</analytics>
+</forge>
+</configuration>
